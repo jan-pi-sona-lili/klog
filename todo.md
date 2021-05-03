@@ -3,12 +3,19 @@
 ### new words
 ```
 - meta words 
+  x1 is a word
   x1 is a list
   x1 is a particle
   x1 is an argument
   x1 is phonotactics
   x1 is a name  
   x1 is letter
+  x1 is numerical/a number
+    x1 is in a quantity of 0; .. of 1; .. of 2; .. of 3; .. of 4; .. of 5
+    x1 is in an unknown quantity
+  x1 is an infix
+  x1 is in a spectrum [ending at x2 [starting at x3 [with a default value of x4]]]
+  
   // probably extraneous, will likely get removed
   x1 is a vowel
   x1 is a consonant
@@ -21,6 +28,10 @@
   x1 is correct in relation to x2  //consider changing to a context?
 
 -pronouns
+  x1 is a pronoun
+  x1 is the speaker
+  x1 is consciousness
+  x1 is a body
   (make a chart of pronouns)
 
 - miscellaneous
