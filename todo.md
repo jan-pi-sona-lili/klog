@@ -9,7 +9,7 @@
   x1 is phonotactics
   x1 is a name  
   x1 is letter
-  // probably extraneous, will likely get removed in the next update
+  // probably extraneous, will likely get removed
   x1 is a vowel
   x1 is a consonant
   x1 is a nasal
@@ -19,6 +19,9 @@
   x1 is sequencial or ordered
   x1 is this/that
   x1 is correct in relation to x2  //consider changing to a context?
+
+-pronouns
+  (make a chart of pronouns)
 
 - miscellaneous
   x1 is an opener for x2
