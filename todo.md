@@ -1,31 +1,33 @@
 ###### (add stuff to-do, or to-add, here)
 
 ### new words
-```
+```c
 - meta words 
   x1 is a word
   x1 is a list
   x1 is a particle
   x1 is an argument
-  x1 is phonotactics
+  x1 is an adjective
+  x1 is a relative clause
+  x1 is a content clause
   x1 is a name  
   x1 is letter
+  x1 is a thing for which the list x2 is the order of
   x1 is numerical/a number
-    x1 is in a quantity of 0; .. of 1; .. of 2; .. of 3; .. of 4; .. of 5
-    x1 is in an unknown quantity
   x1 is an infix
   x1 is in a spectrum [ending at x2 [starting at x3 [with a default value of x4]]]
   
-  // probably extraneous, will likely get removed
+  /* probably extraneous, will likely get removed
+  x1 is phonotactics
   x1 is a vowel
   x1 is a consonant
   x1 is a nasal
-  //
+  */
   
 - adjectives
   x1 is sequencial or ordered
   x1 is this/that
-  x1 is correct in relation to x2  //consider changing to a context?
+  x1 is correct in relation to x2  //change to a context
 
 -pronouns
   x1 is a pronoun
@@ -35,9 +37,11 @@
   (make a chart of pronouns)
 
 - miscellaneous
-  x1 is an opener for x2
-    -- x1 is a closer for x2 (using the opposite particle)
+  x1 is optional
+  x1 is an opener for x2 //turn into a particle?
   x1 is a new word with the list x2 as the definition
+  x1 is in a quantity of 0; .. of 1; .. of 2; .. of 3; .. of 4; .. of 5
+  x1 is in an unknown quantity
 
 - particles
   - makes the next word the opposite of itself
